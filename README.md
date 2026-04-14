@@ -17,3 +17,9 @@ During the deployment of this application, several real-world MLOps and infrastr
 ## 🔮 Future Enhancements
 * **Real-Time Data Pipelines:** Utilizing streaming analytics tools like Apache Kafka and Apache Flink to monitor live threats as they unfold.
 * **SIEM Integration:** Combining the system with Security Information and Event Management (SIEM) tools to provide real-time alerts and trigger automated firewall responses.
+  
+## 🏆 Publications & Presentations
+* **ICAAAI-2024:** Successfully presented the research paper *"Detection of Application Layer DDoS Attacks Produced by Freely Accessible Toolkits Using Machine Learning"* at the 2nd International Conference on Algorithms in Advanced Artificial Intelligence. 
+
+## 👥 Team & Acknowledgements
+This project was originally developed as a B.Tech academic project by a 4-person team: V. Pavana Ganga, Ch. Rashwitha, Ch. Deva Satyandra, and G. Poorna Sai.
